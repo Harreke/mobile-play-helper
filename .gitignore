@@ -1,0 +1,33 @@
+# Modified for MobilePlayHelper; changes from the upstream scrcpy version.
+build/
+/dist/
+/build-*/
+/build_*/
+/release-*/
+.idea/
+.gradle/
+/x/
+local.properties
+/scrcpy-server
+
+/work/
+*.mph.tmp
+/mph-default.mph
+
+/MobilePlayHelper.exe
+
+/packages/
+
+# Personal profiles and local diagnostic / credential files
+/profiles/
+/.env
+/.env.*
+/adbkey
+/adbkey.pub
+*.log
+*.log.previous
+*.dmp
+
+# Python build-script caches
+__pycache__/
+*.py[cod]

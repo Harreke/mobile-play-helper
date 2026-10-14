@@ -1,0 +1,9 @@
+# Generic template; coordinates are fractions of the phone screen.
+toggle 58
+joystick .16 .76 .10
+look .65 .45 .20 .001
+bind Mouse1 .83 .74
+bind Mouse2 .88 .60
+bind Space .92 .77
+bind R .75 .81
+bind C .93 .64

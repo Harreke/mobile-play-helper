@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mobile-play-helper": {
+      "command": "python",
+      "args": ["D:/MobilePlayHelper/scripts/mcp_server.py", "--root", "D:/MobilePlayHelper"]
+    }
+  }
+}

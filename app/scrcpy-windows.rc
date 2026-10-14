@@ -1,0 +1,24 @@
+/* Modified for MobilePlayHelper; changes from the upstream scrcpy version. */
+#include <winuser.h>
+
+0 ICON "data/icon.ico"
+1 RT_MANIFEST "scrcpy-windows.manifest"
+2 VERSIONINFO
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "040904E4"
+    BEGIN
+      VALUE "FileDescription", "Android mirroring and game touch mapping"
+      VALUE "InternalName", "MobilePlayHelper"
+      VALUE "LegalCopyright", "MobilePlayHelper additions: harreke; upstream: Romain Vimont, Genymobile"
+      VALUE "OriginalFilename", "MobilePlayHelper.exe"
+      VALUE "ProductName", "MobilePlayHelper"
+      VALUE "ProductVersion", "0.3.0"
+    END
+  END
+  BLOCK "VarFileInfo"
+  BEGIN
+    VALUE "Translation", 0x409, 1252
+  END
+END

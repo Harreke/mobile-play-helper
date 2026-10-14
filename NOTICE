@@ -1,0 +1,19 @@
+MobilePlayHelper 0.3.0
+Copyright (c) 2026 harreke (MobilePlayHelper additions)
+Project: https://github.com/harreke/mobile-play-helper
+Derived from Genymobile scrcpy 4.1, Apache License 2.0.
+Upstream source: https://github.com/Genymobile/scrcpy
+Base commit: 19c1261d2e2cbf2b5e6a71a8b64cc1dd3ede06ac
+
+MobilePlayHelper additions: game touch mapping, normalized profiles,
+visual editor, side toolbar, launcher, MCP screenshot and real-touch tools,
+build and regression tooling.
+Original copyright notices and LICENSE are retained.
+This is an independent derivative, not an official Genymobile release.
+
+MobilePlayHelper original additions are licensed under Apache-2.0.
+Third-party runtime components retain their own licenses.
+See THIRD_PARTY_NOTICES.md and licenses/ for exact component notices.
+Binary releases must be accompanied by their corresponding third-party source
+archive and build/provenance information. Interface-compatible LGPL libraries
+may be replaced using the portable ZIP or documented extracted-runtime path.
